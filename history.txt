@@ -1,6 +1,42 @@
- chcp 65001
- help dir
-XCOPY /? > XCOPY.TXT
+copt con spisok.txt
+copi com spicok.txt
+copy con spisok.txt
+Fvgard
+sonya
+dominik
+rostik
+populars
+sdasd
+
+chcp 1251
+sort spisok.txt > spisok.txt
+C:\Users\Dasha>copy con spisok.txt
+Fvgard
+sonya
+dominik
+rostik
+populars
+copi com spicok.txt
+copy con spisok.txt
+Fvgard
+yes
+sonya
+dominik
+rostik
+populars
+sdasd
+
+sort spisok.txt
+sort spisok.txt > spisok.txt
 dir /? > dir.txt
 copy /? > copy.txt
+xcopy /? > xcopy.txt
+dir C:\Windows\*bmp /A:R /O:S /S
+dir C:\Windows\*bmp /A:R /O:S /S > dir.txt && more dir.txt
+xcopy 
+C:\Games\*.png C:\WinGrafika
+xcopy C:\Windows\*exe C:\WinEX/I
+ipconfig /all > c:\cmd.txt
+ipconfig /all > C:\Program Files (x86)\cmd.txt
 doskey /history
+doskey /history >history.txt
